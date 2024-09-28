@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daisy! <br/><a href="https://github.com/chemtaii">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Daisy! <br/><a href="https://github.com/chemtaii">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -35,7 +35,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/chemtaiii/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
